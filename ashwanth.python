@@ -1,6 +1,7 @@
-a=input("enter first number :")
-b=input("enter second number : ")
-print(a+b)
-print(a-b)
-print(a*b)
-print(a/b)
+a=input("maths")
+b=input("chemistry")
+c=input("physics")
+d=b/2+c/2+a
+print("cutoff:")
+print(d)
+
